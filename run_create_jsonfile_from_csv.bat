@@ -1,0 +1,1 @@
+java -jar csvtojson-1.0-SNAPSHOT-jar-with-dependencies.jar --input batchdata.csv --output batchdata.json
