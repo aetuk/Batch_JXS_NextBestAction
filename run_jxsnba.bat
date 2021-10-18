@@ -6,5 +6,4 @@ call run_create_jsonfile_from_csv.bat %inputcsv% %outputjson%
 call run_jxsnba_create_xml.bat %outputjson%  
 call run_create_csvfile_from_xml.bat %outputjson2% %outputcsv%  
 del %outputjson% 
-del %outputjson2% 
-pause
+del %outputjson2%
