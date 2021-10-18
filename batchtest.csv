@@ -1,4 +1,6 @@
-userid,age,propid,channel,context,breuserid
-nick,40,2,web,all,aetuk
-nick,42,3,web,all,aetuk
-nick,45,5,web,all,aetuk
+userid,age,propid,channel,brecontext,breuserid,EventId
+nick,40,2,web,all,aetuk,e1
+2,42,3,web,all,aetuk,e2
+2,45,5,web,all,aetuk,e3
+2,45,5,web,all,aetuk,e3
+1,30,5,web,all,aetuk,e2
